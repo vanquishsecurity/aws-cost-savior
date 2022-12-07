@@ -8,3 +8,11 @@ User Project Requirements
 * AWS CLI Installer (https://aws.amazon.com/cli/)
 * Your own root SSH key maanged by you (not responable for lost/stolen SSH root keys)
 * AWS IAM profiles (TBD)
+
+
+Project Structure
+
+* Networking Services
+* Security Services
+* Compute Services
+* Application Services
