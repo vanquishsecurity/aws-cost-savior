@@ -5,7 +5,7 @@ A scripting tool to save money on running AWS services and products. Turn-key cr
 User Project Requirements
 
 * Your own AWS account  (console.aws.amazon.com/console)
-* AWS CLIv2 Installer (https://aws.amazon.com/cli/)
+* AWS CLIv2 Tookkit for PyCharm (https://aws.amazon.com/cli/) or AWS Toolkit for Visual Studio Code (https://docs.aws.amazon.com/toolkit-for-vscode/latest/userguide/setup-toolkit.html)
 * Your own root SSH key maanged by you (not responable for lost/stolen SSH root keys)
 * Your favorite SDK tool if any (Example: Visiual Studio or PyCharm)
 * Git SCM (https://git-scm.com/downloads) 
@@ -31,9 +31,13 @@ Project Structure
 
 Setup Enviroment
 
-* Install AWS CLIv2 Installer Package
+* Install PyCharm 
+* Or Install Microsoft Viusal Studio
+* Install PayCharm AWS Toolkit (https://www.jetbrains.com/pycharm/guide/tutorials/intro-aws/setup/)
+  * To install the plugin follow the below steps.
+  * Go to Settings -> Plugins
+   * Search AWS Toolkit
+    * Click on Install
+* Or Install AWS Toolkit for Visual Studio Code https://docs.aws.amazon.com/toolkit-for-vscode/latest/userguide/setup-toolkit.html
 
-1) Go to https://aws.amazon.com/cli/
-2) Download AWS CLI for your OS (Windows, MAC, Linux)
-2a) For Windows download the MSI, right click and select Install
-3) 
+
