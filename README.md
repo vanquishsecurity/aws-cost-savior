@@ -13,6 +13,13 @@ User Project Requirements
 Project Structure
 
 * Networking Services
+  * VPC
+  * IPAM
+  * Firewall
+  * ACLs
+* DNS
+  * Route 53
+  * 
 * Security Services
 * Compute Services
 * Application Services
