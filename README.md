@@ -15,11 +15,12 @@ Project Structure
 * Networking Services
   * VPC
   * IPAM
-  * Firewall
-  * ACLs
 * DNS
   * Route 53
-  * 
 * Security Services
+  * Firewall
+  * ACLs
 * Compute Services
+  * EC2 
 * Application Services
+  * HTTPd
