@@ -74,6 +74,12 @@ VPC (Cloud) Management
 * Start VPC
 
 
+AWS Doc References
+
+Allways Free Services List
+
+https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=tier%23always-free&awsf.Free%20Tier%20Categories=*all
+
 Setup Enviroment
 
 * Install PyCharm 
