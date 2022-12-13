@@ -27,6 +27,51 @@ Project Structure
 * Application Services
   * HTTPd
 
+Types of Scripts
+
+Note: More scripts types will be added in the future
+
+Describe/Get Information/Status
+
+A script to pull information about a gateway, host, network, volumes, vpc.
+
+Gateway Management
+
+* Create gateway
+* Attach gateway
+* Delete gatway
+
+Host Management
+
+* Create virtual machine
+* Power on
+* Power off
+* Delete virtual machine
+
+Volume Management
+
+* Create volume
+* Attach volume
+* Detach volume
+* Modify volume
+* Delete volume
+
+Network Management
+
+* Create network
+* Delete network
+* Create network interface
+* Delete network interface
+* Create ACL
+* Modify ACL
+* Delete ACL
+
+VPC (Cloud) Management
+
+* Create VPC
+* Delete VPC
+* Modify VPC
+* Start VPC
 
 
 Setup Enviroment
